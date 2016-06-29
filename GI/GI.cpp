@@ -10,6 +10,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
    CParenthesisProblem Problem1;
 
+   // Testing the problem
    Problem1.Test();
 
    getch();
